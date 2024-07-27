@@ -19,7 +19,7 @@ The library is currently tested against Python versions 2.7, 3.4, 3.5, 3.6, 3.9,
 The `dydx-v3-python` package is available on [PyPI](https://pypi.org/project/dydx-v3-python). Install with `pip`:
 
 ```bash
-pip install dydx-v3-python
+pip install xdeen-dydx-v3-python
 ```
 
 ## Getting Started
